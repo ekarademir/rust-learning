@@ -3,4 +3,5 @@ members = [
     "kaleidopaint",
     "chess-terminal-player",
     "guess-game",
+    "weather-threads",
 ]
