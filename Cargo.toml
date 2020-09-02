@@ -5,4 +5,5 @@ members = [
     "guess-game",
     "weather-threads",
     "vulkan-triangle",
+    "sdl2-base-project",
 ]

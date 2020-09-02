@@ -1,0 +1,18 @@
+[package]
+name = "sdl2-base-project"
+version = "0.1.0"
+authors = ["Ertugrul Karademir <ekarademir@gmail.com>"]
+edition = "2018"
+readme = "README.md"
+
+[dependencies]
+log = "0.4.6"
+env_logger = "0.6.1"
+
+[dependencies.sdl2]
+version = "0.32.2"
+default-features = false
+features = ["ttf", "image", "gfx", "mixer"]
+
+[dependencies.gl]
+git = "https://github.com/bjz/gl-rs"
