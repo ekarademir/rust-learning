@@ -1,0 +1,10 @@
+[package]
+name = "hangman"
+version = "0.1.0"
+authors = ["Ertugrul Karademir <ertugrul.karademir@oliverwyman.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
+colored = "1.8.0"
+term_size = "0.3.1"
