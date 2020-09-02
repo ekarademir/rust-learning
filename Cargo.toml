@@ -6,4 +6,5 @@ members = [
     "weather-threads",
     "vulkan-triangle",
     "sdl2-base-project",
+    "fluid_sim_coding_train",
 ]
